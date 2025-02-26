@@ -12,5 +12,5 @@
 
 # Time
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/103071413?v=4" width=115><br><sub>Gabrielle Ribeiro</sub>](https://github.com/rodrigoamadeu) | |
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/103071413?v=4" width=115><br><sub>Rodrigo Amadeu Pinto</sub>](https://github.com/rodrigoamadeu) | |
 | :---: | :---: |
